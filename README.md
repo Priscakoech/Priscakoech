@@ -22,12 +22,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## ⚙️ Dev & Backend Environment
 [![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
 [![Backend Architecture](https://img.shields.io/badge/Backend-Architecture-blue?style=for-the-badge&logo=server&logoColor=white)](https://en.wikipedia.org/wiki/Software_architecture)
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Priscakoech&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## 📊 GitHub Analytics
 
-## 🏆 Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priscakoech&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Priscakoech&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Priscakoech&theme=github-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscakoech&layout=compact&theme=github_dark&hide_border=true)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Priscakoech&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Priscakoech&color=blue&style=for-the-badge)
 
 ## 📫 Connect with Me
 

@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Priscakoech&color=blue&style=for-the-badge)
 
+![Snake animation](https://raw.githubusercontent.com/Priscakoech/Priscakoech/output/github-contribution-grid-snake-dark.svg)
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/prisca-koech)

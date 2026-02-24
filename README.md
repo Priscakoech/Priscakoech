@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 [![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
 [![Backend Architecture](https://img.shields.io/badge/Backend-Architecture-blue?style=for-the-badge&logo=server&logoColor=white)](https://en.wikipedia.org/wiki/Software_architecture)
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Priscakoech&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Priscakoech&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ## 🏆 Top Languages
 

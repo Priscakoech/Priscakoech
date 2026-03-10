@@ -23,13 +23,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 [![Backend Architecture](https://img.shields.io/badge/Backend-Architecture-blue?style=for-the-badge&logo=server&logoColor=white)](https://en.wikipedia.org/wiki/Software_architecture)
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priscakoech&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Priscakoech&theme=github-dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscakoech&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Priscakoech&theme=darkhub&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Priscakoech&color=blue&style=for-the-badge)
 
-![Snake animation](https://raw.githubusercontent.com/Priscakoech/Priscakoech/output/github-contribution-grid-snake-dark.svg)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/prisca-koech)
